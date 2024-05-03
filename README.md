@@ -5,9 +5,14 @@
 - [Project overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data cleaning/preparation](#data-cleaning/preparation)
-- [Exploratory Da
-- 
+- [Data cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+
+
+
 
 ### Project Overview
 
@@ -24,7 +29,7 @@ Sales Data: The primary data source used for this analysis is the "Sales_data.cs
 - Pivot- Creating reports
 
 
-### Data cleaning/preparation
+### Data cleaning
 In the initial data preparation, the following tasks were performed:
 1. Data cleaning.
 2. calculations of revenue and profit.
@@ -59,7 +64,7 @@ This involves exploring the data set to visualise and answer key questions, such
   tables simultaneously using the same filter criteria, enhancing efficiency and interactivity in data analysis.
 
 
-### Results/Findings
+### Results
 
 The analysis results are summarized as follows:
 
