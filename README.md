@@ -1,4 +1,4 @@
-## Sales Analysis
+# Sales Analysis
 
 ## Table of contents
 
@@ -51,7 +51,7 @@ This involves exploring the data set to visualise and answer key questions, such
 - Product Category
 - Date
  
- #### finding insights:
+ #### Insights:
 - Top 2 products with the highest revenue in January?
 - Which sales team had the highest revenue from Decoratives in March?
 - Based on 2v, which metric(s) correlates with revenue per state?
