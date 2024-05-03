@@ -18,7 +18,7 @@
 
 This project aims to deliver practical insights to DTLM Retail's Sales Director by analyzing sales data and implementing an interactive dashboard. It involves tasks such as computing revenue and profit, generating reports on revenue trends, top products, sales teams, and states, and creating a dynamic visualization dashboard. The project enables informed decision-making and enhances business operations through analysis and visualisation, fostering revenue growth for DTLM Retail.
 
-
+![image](https://github.com/Bukolagbogi/Sales-analysis/assets/152001727/3f8bdb44-2b3b-4ffb-841e-3bee27f6cf51)
 
 ### Data Sources
 
